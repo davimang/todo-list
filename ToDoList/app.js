@@ -77,7 +77,8 @@ function clear(event){
     }
     set1.clear();
 
-    console.log("clear");
+
+    console.log("Cleared");
 
 
 }
