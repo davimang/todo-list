@@ -63,6 +63,8 @@ function deleteCheck(event){
         const todo = item.parentElement;
         todo.classList.toggle('completed');
     }
+
+    console.log("check delete");
 }
 
 function clear(event){
