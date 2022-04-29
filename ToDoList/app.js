@@ -76,4 +76,8 @@ function clear(event){
         todos[0].remove();
     }
     set1.clear();
+
+    console.log("clear");
+
+
 }
