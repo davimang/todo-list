@@ -48,6 +48,8 @@ function addTodo(event){
 
 
     todoInput.value = "";
+
+    console.log("added new to do");
 }
 
 function deleteCheck(event){
